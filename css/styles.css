@@ -35,7 +35,7 @@ p{
 }
 
 hr{
-  border: dotted grey 6px;
+  border: dotted #3fc3c3 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
